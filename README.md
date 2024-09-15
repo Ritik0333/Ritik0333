@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritik Katiyar
 - 👀 I’m interested in Tech.
-- 🌱 I’m currently persuing B.Tech 3rd year from Lovely Professional University.
+- 🌱 I’m currently persuing B.Tech Computer Science 4rd year from Lovely Professional University.
 - 📫 How to reach me via LinkedIn - https://www.linkedin.com/in/ritik0333/
 
 <!---
